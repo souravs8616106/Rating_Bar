@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">RatingBar</string>
+    <string name="Rating">Give Rating</string>
+    <string name="Good">Good</string>
+    <string name="Bad">Bad</string>
+    <string name="Average">Average</string>
+</resources>
